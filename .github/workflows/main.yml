@@ -1,0 +1,8 @@
+name: saludo en cada push
+on: push
+jobs:
+hola:
+runs-on: ubuntu-lastest
+steps:
+- nmae: saludo personalizado 
+runs-on: 
